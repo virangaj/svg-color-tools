@@ -1,5 +1,3 @@
-
-// README.md
 # svg-color-tools
 
 A lightweight utility to dynamically change the `fill`, `stroke`, `stroke-width`, and `className` of SVG strings in JavaScript/TypeScript projects.
