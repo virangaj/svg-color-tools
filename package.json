@@ -1,0 +1,29 @@
+{
+  "name": "svg-color-tools",
+  "version": "1.0.0",
+  "description": "A lightweight utility to change the fill and stroke colors of SVG strings.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "svg",
+    "color",
+    "fill",
+    "stroke",
+    "react",
+    "utility"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.6",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  }
+}
